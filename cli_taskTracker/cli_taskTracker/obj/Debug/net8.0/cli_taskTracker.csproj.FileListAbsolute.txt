@@ -1,0 +1,14 @@
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\bin\Debug\net8.0\cli_taskTracker.exe
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\bin\Debug\net8.0\cli_taskTracker.deps.json
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\bin\Debug\net8.0\cli_taskTracker.runtimeconfig.json
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\bin\Debug\net8.0\cli_taskTracker.dll
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\bin\Debug\net8.0\cli_taskTracker.pdb
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\obj\Debug\net8.0\cli_taskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\obj\Debug\net8.0\cli_taskTracker.AssemblyInfoInputs.cache
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\obj\Debug\net8.0\cli_taskTracker.AssemblyInfo.cs
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\obj\Debug\net8.0\cli_taskTracker.csproj.CoreCompileInputs.cache
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\obj\Debug\net8.0\cli_taskTracker.dll
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\obj\Debug\net8.0\refint\cli_taskTracker.dll
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\obj\Debug\net8.0\cli_taskTracker.pdb
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\obj\Debug\net8.0\cli_taskTracker.genruntimeconfig.cache
+C:\Users\aksmb\source\repos\cli_taskTracker\cli_taskTracker\obj\Debug\net8.0\ref\cli_taskTracker.dll
